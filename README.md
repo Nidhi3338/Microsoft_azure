@@ -9,9 +9,9 @@ Microsoft Certified: Azure Fundamentals
 
 ## Study guide for Exam AZ-900: Microsoft Azure Fundamentals
 ### https://learn.microsoft.com/en-gb/credentials/certifications/resources/study-guides/az-900
--- Describe cloud concepts (25–30%)
--- Describe Azure architecture and services (35–40%)
--- Describe Azure management and governance (30–35%)
+- Describe cloud concepts (25–30%)
+- Describe Azure architecture and services (35–40%)
+- Describe Azure management and governance (30–35%)
 
 ### Unit -1
 Azure Fundamentals includes interactive exercises that give you hands-on experience with Azure. Many exercises provide a temporary Azure portal environment called the sandbox

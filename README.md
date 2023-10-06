@@ -27,6 +27,8 @@ a. cloud computing is where the PC is in the cloud center insted of physically w
 - compute power : is how much processeing a computer can do and which allows for latest upadte and processing quick
 - storage : PC/traditional  has limited hard drive space and cloud make sure its up to date and its backedup
 
+
+
 b. shared responsibility model , in traditional computers there where datacenter which was taken care of and if the cilent wanted any details they had to rely on the employee working in datacenter
 
 - Then, for some things, the responsibility depends on the situation. If you’re using a cloud SQL database, the cloud provider would be responsible for maintaining the actual database. However, you’re still responsible for the data that gets ingested into the database. If you deployed a virtual machine and installed an SQL database on it, you’d be responsible for database patches and updates, as well as maintaining the data and information stored in the database.
@@ -56,6 +58,8 @@ c. What are cloud models? The cloud models define the deployment type of cloud r
 - thirdparty service given by the aws or azure for public cloud
 - Hybrid clouds rely on secure network connections, often using technologies like virtual private networks (VPNs)
 - **Azure Arc** is a set of technologies that helps manage your cloud environment. Azure Arc can help manage your cloud environment, whether it's a public cloud solely on Azure, a private cloud in your datacenter, a hybrid configuration, or even a multi-cloud environment running on multiple cloud providers at once.
+- What if you’re already established with VMware in a private cloud environment but want to migrate to a public or hybrid cloud? Azure VMware Solution lets you run your **VMware** **workloads** in Azure with seamless integration and scalability.
+- Azure VMware Solution (AVS) is a cloud service offered by Microsoft Azure in collaboration with VMware. It enables organizations to run their   VMware workloads natively within the Microsoft Azure cloud environment.
 
 
 

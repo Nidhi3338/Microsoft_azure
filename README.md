@@ -32,11 +32,10 @@ a. cloud computing is where the PC is in the cloud center insted of physically w
 b. shared responsibility model , in traditional computers there where datacenter which was taken care of and if the cilent wanted any details they had to rely on the employee working in datacenter
 
 - Then, for some things, the responsibility depends on the situation. If you’re using a cloud SQL database, the cloud provider would be responsible for maintaining the actual database. However, you’re still responsible for the data that gets ingested into the database. If you deployed a virtual machine and installed an SQL database on it, you’d be responsible for database patches and updates, as well as maintaining the data and information stored in the database.
-- as the datacenter has shifted to cloud they have three difrrent models IAAS , PAAS ,SAAS.
+- as the datacenter has shifted to cloud they have three diffrent models IAAS , PAAS ,SAAS.
 - IaaS places the most responsibility on the consumer, with the cloud provider being responsible for the basics of physical security, power, and connectivity. On the other end of the spectrum
 -  SaaS places most of the responsibility with the cloud provider. PaaS, being a middle ground between IaaS and SaaS
 -  Saas-Paas-Iaas
-  
 -  You’ll always be responsible for:
 The information and data stored in the cloud
 ,Devices that are allowed to connect to your cloud (cell phones, computers, and so on)

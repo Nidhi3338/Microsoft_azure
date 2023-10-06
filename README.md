@@ -20,7 +20,7 @@ b. Describe the shared responsibility model.
 c. Define cloud models, including public, private, and hybrid.
 - Identify appropriate use cases for each cloud model.
 - Describe the consumption-based model.
-- Compare cloud pricing models.
+d. Compare cloud pricing models.
 
 a. cloud computing is where the PC is in the cloud center insted of physically with us , we only pay for the services used .
 - all the cloud provider mainly provide ( compute power and storage)
@@ -61,6 +61,11 @@ c. What are cloud models? The cloud models define the deployment type of cloud r
 - What if you’re already established with VMware in a private cloud environment but want to migrate to a public or hybrid cloud? Azure VMware Solution lets you run your **VMware** **workloads** in Azure with seamless integration and scalability.
 - Azure VMware Solution (AVS) is a cloud service offered by Microsoft Azure in collaboration with VMware. It enables organizations to run their   VMware workloads natively within the Microsoft Azure cloud environment.
 
+d.Capital expenditure (CapEx) and operational expenditure (OpEx).
+
+- CapEx is typically a one-time, up-front expenditure to purchase or secure tangible resources. A new building, repaving the parking lot, building a datacenter, or buying a company vehicle are examples of CapEx.
+
+- In contrast, OpEx is spending money on services or products over time. Renting a convention center, leasing a company vehicle, or signing up for cloud services are all examples of OpEx.
 
 
 

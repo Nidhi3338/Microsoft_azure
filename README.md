@@ -34,22 +34,22 @@ b. shared responsibility model , in traditional computers there where datacenter
 - IaaS places the most responsibility on the consumer, with the cloud provider being responsible for the basics of physical security, power, and connectivity. On the other end of the spectrum
 -  SaaS places most of the responsibility with the cloud provider. PaaS, being a middle ground between IaaS and SaaS
 -  Saas-Paas-Iaas
+-  
 -  You’ll always be responsible for:
-
 The information and data stored in the cloud
-Devices that are allowed to connect to your cloud (cell phones, computers, and so on)
-The accounts and identities of the people, services, and devices within your organization
-- The cloud provider is always responsible for:
+,Devices that are allowed to connect to your cloud (cell phones, computers, and so on)
+,The accounts and identities of the people, services, and devices within your organization
 
+- The cloud provider is always responsible for:
 The physical datacenter
-The physical network
-The physical hosts
+,The physical network
+,The physical hosts
 - Your service model will determine responsibility for things like:
 
 Operating systems
-Network controls
-Applications
-Identity and infrastructure
+,Network controls
+,Applications
+,Identity and infrastructure
 
 
   

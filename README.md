@@ -84,17 +84,18 @@ d.Capital expenditure (CapEx) and operational expenditure (OpEx).
 - Management in the cloud
 - Management in the cloud speaks to how you’re able to manage your cloud environment and resources. You can manage these:
 
-- Through a web portal.
-a. Using a command line interface.
-b. Using APIs.
-c. Using PowerShell.
+- Through a web portal
+a.Using a command line interface.
+b.Using APIs.
+c.Using PowerShell.
 
 ### module3
+
 - In this module, you’ll be introduced to cloud service types. You’ll learn how each cloud service type determines the flexibility you’ll have with managing and configuring resources.
-  a.Describe infrastructure as a service (IaaS).
-  b. Describe platform as a service (PaaS).
-  c. Describe software as a service (SaaS).
-  d. Identify appropriate use cases for each cloud service (IaaS, PaaS, SaaS).
+a.Describe infrastructure as a service (IaaS).
+b.Describe platform as a service (PaaS).
+c.Describe software as a service (SaaS).
+d.Identify appropriate use cases for each cloud service (IaaS, PaaS, SaaS).
  
   
 

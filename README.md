@@ -95,6 +95,10 @@ c.Using PowerShell.
 b.Describe platform as a service (PaaS).
 c.Describe software as a service (SaaS).
 d.Identify appropriate use cases for each cloud service (IaaS, PaaS, SaaS).
- 
-  
+
+1.**Lift-and-Shift Migration:** When you want to transition your existing on-premises infrastructure and applications to the cloud without significant redevelopment. IaaS allows you to replicate your current environment in the cloud, providing familiarity and easier migration.
+
+2.**Testing and Development:** IaaS is excellent for creating development and testing environments that can be rapidly provisioned or de-provisioned. This agility is beneficial for developers who need consistent and controlled testing environments.
+
+In both cases, IaaS offers the flexibility of cloud computing while retaining control over the underlying infrastructure, making it a valuable choice for many organizations.
 

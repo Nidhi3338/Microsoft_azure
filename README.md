@@ -93,7 +93,7 @@ c.Using PowerShell.
 
 - In this module, you’ll be introduced to cloud service types. You’ll learn how each cloud service type determines the flexibility you’ll have with managing and configuring resources.
   
-a. Describe infrastructure as a service (IaaS).
+a.Describe infrastructure as a service (IaaS).
 b. Describe platform as a service (PaaS).
 c. Describe software as a service (SaaS).
 d. Identify appropriate use cases for each cloud service (IaaS, PaaS, SaaS).

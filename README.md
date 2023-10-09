@@ -88,7 +88,7 @@ a.Using a command line interface.
 b.Using APIs.
 c.Using PowerShell.
 
-### module3
+### module 3
 
 - In this module, you’ll be introduced to cloud service types. You’ll learn how each cloud service type determines the flexibility you’ll have with managing and configuring resources.
   

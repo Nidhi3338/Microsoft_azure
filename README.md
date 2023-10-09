@@ -70,8 +70,8 @@ d.Capital expenditure (CapEx) and operational expenditure (OpEx).
 - Describe the benefits of using cloud services
   a.Describe the benefits of high availability and scalability in the cloud.
   b.Describe the benefits of reliability and predictability in the cloud.
-  c. Describe the benefits of security and governance in the cloud.
-  d. Describe the benefits of manageability in the cloud.
+  c.Describe the benefits of security and governance in the cloud.
+  d.Describe the benefits of manageability in the cloud.
 
  - You’ll also learn about security, governance, and overall manageability in the cloud.
  - **SLA (Service level agreement)** , which is agreement between the company and IT services to give UP time services from 90% to 99.9% avaiblibe to customers from the cloud provider.
@@ -91,10 +91,10 @@ c. Using PowerShell.
 
 ### module3
 - In this module, you’ll be introduced to cloud service types. You’ll learn how each cloud service type determines the flexibility you’ll have with managing and configuring resources.
-a. Describe infrastructure as a service (IaaS).
-b. Describe platform as a service (PaaS).
-c. Describe software as a service (SaaS).
-d. Identify appropriate use cases for each cloud service (IaaS, PaaS, SaaS).
+  a.Describe infrastructure as a service (IaaS).
+  b. Describe platform as a service (PaaS).
+  c. Describe software as a service (SaaS).
+  d. Identify appropriate use cases for each cloud service (IaaS, PaaS, SaaS).
  
   
 

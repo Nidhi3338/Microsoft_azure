@@ -27,8 +27,6 @@ a. cloud computing is where the PC is in the cloud center insted of physically w
 - compute power : is how much processeing a computer can do and which allows for latest upadte and processing quick
 - storage : PC/traditional  has limited hard drive space and cloud make sure its up to date and its backedup
 
-
-
 b. shared responsibility model , in traditional computers there where datacenter which was taken care of and if the cilent wanted any details they had to rely on the employee working in datacenter
 
 - Then, for some things, the responsibility depends on the situation. If you’re using a cloud SQL database, the cloud provider would be responsible for maintaining the actual database. However, you’re still responsible for the data that gets ingested into the database. If you deployed a virtual machine and installed an SQL database on it, you’d be responsible for database patches and updates, as well as maintaining the data and information stored in the database.
@@ -85,18 +83,18 @@ d.Capital expenditure (CapEx) and operational expenditure (OpEx).
 - Management in the cloud speaks to how you’re able to manage your cloud environment and resources. You can manage these:
 
 - Through a web portal
-  a.Using a command line interface.
-  b.Using APIs.
-  c.Using PowerShell.
+a.Using a command line interface.
+b.Using APIs.
+c.Using PowerShell.
 
 ### module3
 
 - In this module, you’ll be introduced to cloud service types. You’ll learn how each cloud service type determines the flexibility you’ll have with managing and configuring resources.
   
-  a.Describe infrastructure as a service (IaaS).
-  b.Describe platform as a service (PaaS).
-  c.Describe software as a service (SaaS).
-  d.Identify appropriate use cases for each cloud service (IaaS, PaaS, SaaS).
+ a.Describe infrastructure as a service (IaaS).
+b.Describe platform as a service (PaaS).
+c.Describe software as a service (SaaS).
+d.Identify appropriate use cases for each cloud service (IaaS, PaaS, SaaS).
  
   
 

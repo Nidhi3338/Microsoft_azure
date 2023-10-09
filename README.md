@@ -84,7 +84,7 @@ d.Capital expenditure (CapEx) and operational expenditure (OpEx).
 - Management in the cloud
 - Management in the cloud speaks to how you’re able to manage your cloud environment and resources. You can manage these:
 
-Through a web portal.
+- Through a web portal.
 a. Using a command line interface.
 b. Using APIs.
 c. Using PowerShell.

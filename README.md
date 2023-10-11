@@ -120,4 +120,4 @@ PaaS simplifies development and data analysis processes, allowing organizations 
 - Describe subscriptions.
 - Describe management groups.
 - Describe the hierarchy of resource groups, subscriptions, and management groups.
-![architectural ](arch.jpg)
+  ![alt text](arch.jpg)

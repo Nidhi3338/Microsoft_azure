@@ -121,4 +121,5 @@ PaaS simplifies development and data analysis processes, allowing organizations 
 - Describe management groups.
 - Describe the hierarchy of resource groups, subscriptions, and management groups.
   ![alt text](arch.jpg)
-  - For example, your company might use a single Azure account for your business and separate subscriptions for development, marketing, and sales departments. After you've created an Azure subscription, you can start creating Azure resources within each subscription.
+  - For example, your company might use a single Azure account for your business and separate subscriptions for development, marketing, and sales departments. After you've created an Azure su**bscription, you can start creating Azure resources within each subscription.
+  - The https://azure.microsoft.com/en-gb/free/students/ **is an offer for students that gives $100 credit and free developer tools. Also, you can sign up without a credit card.

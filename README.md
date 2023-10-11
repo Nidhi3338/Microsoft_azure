@@ -1,7 +1,7 @@
 # Microsoft_azure
 Microsoft Certified: Azure Fundamentals
 
-## concepts 
+## Concepts 
 1. storage
 2. cloud computing (Iaas ,Paas ,Saas)
 3. networking

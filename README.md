@@ -112,3 +112,11 @@ c. **Development Framework:** PaaS offers developers a platform with pre-built t
 PaaS simplifies development and data analysis processes, allowing organizations to focus on application functionality and data-driven decision-making rather than managing underlying infrastructure.
 
 ## 2. Microsoft Azure Fundamentals: Describe Azure architecture and services
+### Module 1
+- Describe Azure regions, region pairs, and sovereign regions.
+- Describe Availability Zones.
+- Describe Azure datacenters.
+- Describe Azure resources and Resource Groups.
+- Describe subscriptions.
+- Describe management groups.
+- Describe the hierarchy of resource groups, subscriptions, and management groups.

@@ -130,10 +130,15 @@ a. command line prompt
 1. azure cloud shell ( get-date) // use "pwsh " to move backfrom bash
 2. bash (date)
 3. intractive mode // useful if not familiar with bash and azure
-  > **The core architectural components of Azure may be broken down into two main groupings: the physical infrastructure, and the management infrastructure.**
+  > **The core architectural components of Azure may be broken down into two main groupings: 1. the physical infrastructure, and 2. the management infrastructure.**
 
-  - Availability zones are primarily for VMs, managed disks, load balancers, and SQL databases. Azure services that support availability zones fall into three categories:
+  - 1. Availability zones are primarily for VMs, managed disks, load balancers, and SQL databases. Azure services that support availability zones fall into three categories:
 
 - Zonal services: You pin the resource to a specific zone (for example, VMs, managed disks, IP addresses).
 Zone-redundant services: The platform replicates automatically across zones (for example, zone-redundant storage, SQL Database).
 Non-regional services: Services are always available from Azure geographies and are resilient to zone-wide outages as well as region-wide outages.
+- 2. The management infrastructure includes Azure resources and resource groups, subscriptions, and accounts. Understanding the hierarchical organization will help you plan your projects and products within Azure.
+
+- 10,000 management groups can be supported in a single directory.
+- A management group tree can support up to six levels of depth. This limit doesn't include the root level or the subscription level.
+- Each management group and subscription can support only one parent.( they only have one root user, no two parents)

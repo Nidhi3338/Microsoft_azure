@@ -138,7 +138,7 @@ a. command line prompt
 Zone-redundant services: The platform replicates automatically across zones (for example, zone-redundant storage, SQL Database).
 Non-regional services: Services are always available from Azure geographies and are resilient to zone-wide outages as well as region-wide outages.
 - 2. The management infrastructure includes Azure resources and resource groups, subscriptions, and accounts. Understanding the hierarchical organization will help you plan your projects and products within Azure.
-![alt text] (arch1.jpg)
+![alt text](arch1.jpg)
 - 10,000 management groups can be supported in a single directory.
 - A management group tree can support up to six levels of depth. This limit doesn't include the root level or the subscription level.
 - Each management group and subscription can support only one parent.( they only have one root user, no two parents)

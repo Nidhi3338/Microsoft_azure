@@ -123,3 +123,17 @@ PaaS simplifies development and data analysis processes, allowing organizations 
   ![alt text](arch.jpg)
   - For example, your company might use a single Azure account for your business and separate subscriptions for development, marketing, and sales departments. After you've created an Azure su**bscription, you can start creating Azure resources within each subscription.
   - The https://azure.microsoft.com/en-gb/free/students/ **is an offer for students that gives $100 credit and free developer tools. Also, you can sign up without a credit card.
+  - **sandbox**: This temporary subscription allows you to create Azure resources during a Learn module. Learn automatically cleans up the temporary resources for you after you've completed the module.
+
+When you're completing a Learn module, you're welcome to use your personal subscription to complete the exercises in a module. However, the sandbox is the preferred method to use because it allows you to create and test Azure resources at no cost to you.
+a. command line prompt 
+1. azure cloud shell ( get-date) // use "pwsh " to move backfrom bash
+2. bash (date)
+3. intractive mode // useful if not familiar with bash and azure
+  - **The core architectural components of Azure may be broken down into two main groupings: the physical infrastructure, and the management infrastructure.**
+
+  - Availability zones are primarily for VMs, managed disks, load balancers, and SQL databases. Azure services that support availability zones fall into three categories:
+
+- Zonal services: You pin the resource to a specific zone (for example, VMs, managed disks, IP addresses).
+Zone-redundant services: The platform replicates automatically across zones (for example, zone-redundant storage, SQL Database).
+Non-regional services: Services are always available from Azure geographies and are resilient to zone-wide outages as well as region-wide outages.

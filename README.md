@@ -130,7 +130,7 @@ a. command line prompt
 1. azure cloud shell ( get-date) // use "pwsh " to move backfrom bash
 2. bash (date)
 3. intractive mode // useful if not familiar with bash and azure
-  - **The core architectural components of Azure may be broken down into two main groupings: the physical infrastructure, and the management infrastructure.**
+  > **The core architectural components of Azure may be broken down into two main groupings: the physical infrastructure, and the management infrastructure.**
 
   - Availability zones are primarily for VMs, managed disks, load balancers, and SQL databases. Azure services that support availability zones fall into three categories:
 

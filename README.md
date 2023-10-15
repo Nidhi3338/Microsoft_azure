@@ -160,7 +160,7 @@ d.Verify or enter the following values for each setting. If a setting isn’t sp
 a.Select Home 
 b.Select Resource groups
 
-## 2. Describe Azure compute and networking services
+## 2.Describe Azure compute and networking services
 ### Module 2
 - Compare compute types, including container instances, virtual machines, and functions
 - Describe virtual machine (VM) options, including VMs, Virtual Machine Scale Sets, availability sets, Azure Virtual Desktop

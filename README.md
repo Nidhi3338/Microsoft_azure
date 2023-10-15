@@ -149,13 +149,13 @@ Non-regional services: Services are always available from Azure geographies and 
 
 a. Sign in to the Azure portal.
 
-b.Select Create a resource > Compute > Virtual Machine > Create.
+b.Select Create a resource > Compute > Virtual Machine > Create
 
-c.The Create a virtual machine pane opens to the basics tab.
+c.The Create a virtual machine pane opens to the basics tab
 
-d.Verify or enter the following values for each setting. If a setting isn’t specified, leave the default value.
+d.Verify or enter the following values for each setting. If a setting isn’t specified, leave the default value
 
-- Task 2: Verify resources created Once the deployment is created, you can verify that Azure created not only a VM, but all of the associated resources the VM needs.
+- Task 2: Verify resources created Once the deployment is created, you can verify that Azure created not only a VM, but all of the associated resources the VM needs
 
 a.Select Home
 b.Select Resource groups

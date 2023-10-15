@@ -160,3 +160,5 @@ d.Verify or enter the following values for each setting. If a setting isn’t sp
 a.Select Home 
 b.Select Resource groups
 
+## 3.Describe Azure compute and networking services
+

@@ -157,6 +157,6 @@ d.Verify or enter the following values for each setting. If a setting isn’t sp
 
 - Task 2: Verify resources created Once the deployment is created, you can verify that Azure created not only a VM, but all of the associated resources the VM needs
 
-a.Select Home
+a.Select Home 
 b.Select Resource groups
 

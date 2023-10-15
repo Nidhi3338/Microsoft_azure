@@ -123,6 +123,7 @@ PaaS simplifies development and data analysis processes, allowing organizations 
   ![alt text](arch.jpg)
   - For example, your company might use a single Azure account for your business and separate subscriptions for development, marketing, and sales departments. After you've created an Azure su**bscription, you can start creating Azure resources within each subscription.
   - The https://azure.microsoft.com/en-gb/free/students/ **is an offer for students that gives $100 credit and free developer tools. Also, you can sign up without a credit card.
+  ### ** LAB1**
   - **sandbox**: This temporary subscription allows you to create Azure resources during a Learn module. Learn automatically cleans up the temporary resources for you after you've completed the module.
 
 When you're completing a Learn module, you're welcome to use your personal subscription to complete the exercises in a module. However, the sandbox is the preferred method to use because it allows you to create and test Azure resources at no cost to you.
@@ -142,3 +143,20 @@ Non-regional services: Services are always available from Azure geographies and 
 - 10,000 management groups can be supported in a single directory.
 - A management group tree can support up to six levels of depth. This limit doesn't include the root level or the subscription level.
 - Each management group and subscription can support only one parent.( they only have one root user, no two parents)
+
+ ### Lab-2
+  - Task 1: Create a virtual machine, In this task, you’ll create a virtual machine using the Azure portal.
+
+a. Sign in to the Azure portal.
+
+b.Select Create a resource > Compute > Virtual Machine > Create.
+
+c.The Create a virtual machine pane opens to the basics tab.
+
+d.Verify or enter the following values for each setting. If a setting isn’t specified, leave the default value.
+
+- Task 2: Verify resources created Once the deployment is created, you can verify that Azure created not only a VM, but all of the associated resources the VM needs.
+
+a.Select Home
+b.Select Resource groups
+

@@ -168,5 +168,6 @@ b.Select Resource groups
 - Describe application hosting options, including Azure Web Apps, containers, and virtual machines
 - Describe virtual networking, including the purpose of Azure Virtual Networks, Azure virtual subnets, peering, Azure DNS, VPN Gateway, and ExpressRoute
 - Define public and private endpoints
+  #### Azure virtual desktop
  ![alt text](arch2.jpg)
 

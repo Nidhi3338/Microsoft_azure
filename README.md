@@ -179,6 +179,9 @@ b.Select Resource groups
  - Azure Kubernetes Service (AKS) is a container orchestration service. An orchestration service manages the lifecycle of containers.
  - This architecture is where you break solutions into smaller, independent pieces. For example, you might split a website into a container hosting your front end, another hosting your back end, and a third for storage. 
  - Imagine your website back-end has reached capacity but the front end and storage aren't being stressed. With containers, you could scale the back end separately to improve performance
+#### Lab-3 Create a Linux virtual machine and install Nginx
+- Nginx is a web server which is used to listen from a diffrent pages of a application each page as  route of a domain of a application and listen to the cloud provider
+- we host a domain called www.nidhtravel.com and tis is loaded on to the cloud platform like azure and which will be listing though a port 80 or so and web hosting like Http page 
 
 #### Azure functions
 - f you build an app using VMs or containers, those resources have to be “running” in order for your app to function. With Azure Functions, an event wakes the function, alleviating the need to keep resources provisioned when there are no events.
@@ -199,7 +202,7 @@ b.Select Resource groups
 - b.Network virtual appliances are specialized VMs that can be compared to a hardened network appliance. A network virtual appliance carries out a particular network function, such as running a firewall or performing wide area network (WAN) optimization.
 - You can link virtual networks together by using virtual network peering. Peering allows two virtual networks to connect directly to each other.Peering enables resources in each virtual network to communicate with each other. These virtual networks can be in separate regions, which allows you to create a global interconnected network through Azure.
 
-### Lab-3 **Configure network access**
+### Lab-4 **Configure network access**
 
 
 

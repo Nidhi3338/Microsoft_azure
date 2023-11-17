@@ -203,6 +203,23 @@ b.Select Resource groups
 - You can link virtual networks together by using virtual network peering. Peering allows two virtual networks to connect directly to each other.Peering enables resources in each virtual network to communicate with each other. These virtual networks can be in separate regions, which allows you to create a global interconnected network through Azure.
 
 ### Lab-4 **Configure network access**
+- create VM and install web server : Nginx 
+- Run the following az vm list-ip-addresses command to get your VM's IP address and store the result as a Bash variable:
+-Run the following az network nsg list command to list the network security groups that are associated with your VM:
+
+### VPN
+- A virtual private network (VPN) uses an encrypted tunnel within another network.
+- VPNs can enable networks to safely and securely share sensitive information.
+- VPN gateways a. Connect on-premises datacenters to virtual networks through a site-to-site connection.
+b. Connect individual devices to virtual networks through a point-to-site connection.
+c. Connect virtual networks to other virtual networks through a network-to-network connection.
+- High-availability scenarios
+> If you’re configuring a VPN to keep your information safe, you also want to be sure that it’s a highly available and fault tolerant VPN configuration. There are a few ways to maximize the resiliency of your VPN gateway.
+> Active/standby
+> Active/active
+> ExpressRoute failover
+> Zone-redundant gateways
+
 
 
 
